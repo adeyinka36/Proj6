@@ -15,7 +15,7 @@
         "live_links":"https://adeyinka36.github.io/TeamTreeHouse-Proj-2/.",
         "github_links":"https://github.com/adeyinka36/TeamTreeHouse-Proj2",
         "description":"Using javacript in this programme, i created pagination displaying 10 items for each page and 10 or less on the final page",
-        "image_urls":["/static/images/pagination1.png","/static/images/pagination2.png","/static/images/pagination3.png","/static/images/pagination4.png"]
+        "image_urls":["/static/images/pagination3.png","/static/images/pagination4.png","/static/images/pagination1.png"]
     },
     {
         "id":2,
@@ -33,7 +33,7 @@
         "live_links":"https://adeyinka36.github.io/TeamTreeHouse-Proj4/.",
         "github_links":"https://github.com/adeyinka36/TeamTreeHouse-Proj4",
         "description":"This is a OOP focused project where i used javacript to create a game that allows players to guess a random hidden phrase on the screen ",
-        "image_urls":["/static/images/oop1.png","/static/images/oop2.png","/static/images/oop4.png","/static/images/3(2).png"]
+        "image_urls":["/static/images/oop1.png","/static/images/oop2.png","/static/images/oop4.png","/static/images/oop3(2).png"]
     },
     {
         "id":4,
