@@ -148,3 +148,16 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+/*  */
+h5:hover{
+  transform: scale(1.1);
+
+
+}
+
+.mypic:hover{
+  transform:scale(1.2)
+}
+.docbody{
+  background-color: darkgray;
+}

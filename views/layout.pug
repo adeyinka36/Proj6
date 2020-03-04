@@ -8,24 +8,24 @@ html(class="no-js" lang="en" dir="ltr")
     link(href='https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,800', rel='stylesheet')
     link(rel='stylesheet', href='/static/css/foundation.css')
     link(rel='stylesheet', href='/static/css/style.css')
-  body
+  body.docbody
     #my-info.off-canvas.position-left.reveal-for-large.portfolio-me(data-off-canvas='')
       .grid-y.grid-padding-x(style='height: 100%;')
         block sidebar
           br
           .cell.shrink
-            img.thumbnail(src='https://placehold.it/550x350')
+            img.thumbnail.mypic(src='/static/images/Mypic.jpg')
           .cell.auto
 
             //- Add your name here.
-            h5 Name
+            h5 Adeyinka Giwa
 
             //- Add text here to describe who you are, what you do, and why you are so awesome.
             p.text-light
-              | Description
+                I  I am a Software-Developer specializing in  building and maintaining morndern and responsive web and mobile applicatios. I have an  innate passion for understandinng the technologies that i work with and i am constatntly improving my skills. I am currently looking for a javascript  developer role.
 
             //- Add about page route to the href below. 
-            a(href='') Learn More →
+            a(href='/about') Learn More →
 
     .off-canvas-content(data-off-canvas-content='')
       .title-bar.hide-for-large
@@ -33,7 +33,7 @@ html(class="no-js" lang="en" dir="ltr")
           button.menu-icon(type='button', data-toggle='my-info')
 
           //- Add your name here.  This is for the mobile screen sized version.
-          span.title-bar-title Name
+          span.title-bar-title Adeyinka Giwa
       block content
         
 

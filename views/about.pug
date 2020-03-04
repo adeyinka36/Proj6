@@ -2,13 +2,13 @@ extends layout.pug
 
 block content 
   nav.grid-container.portfolio-breadcrumb
-    a(href='/') ← Back
+    a(href='#', onclick='history.go(-1)') ← Back
   article.grid-container.portfolio-intro.portfolio-project
     .grid-x
       .cell.small-6.medium-9.large-9
 
         //- Add your name.
-        h1 Name
+        h1 Adeyinka Giwa 
 
         //- Feel free personalize the title below
         p.lead.text-light
@@ -26,22 +26,23 @@ block content
         //- Replace the text in the li tags below with your own skills.  At this point, you should be able to list at least ten skills.
         ul
           li Express
-          li Other cool stuff
-          li Listing my skills
-          li Etc.
-          li Etc. 
-          li Etc.
+          li CSS
+          li HTML
+          li JAVASCRIPT
+          li NODE JS
+          li BOOTSTRAP
+  
         h6 Contact Info
 
         //- Add your own contact info
         ul
-          li 555-555-1234
-          li email@email.com
+          li +44 0535996987
+          li adeyinka.giwa36@gmail.com
 
         //- Add URLs to the hrefs below to link to your social media accounts.
-        a.button.expanded(href='') LinkedIn
-        a.button.expanded(href='') GitHub
-        a.button.expanded(href='') Twitter
+        //a.button.expanded(href='') LinkedIn
+        a.button.expanded(href='https://github.com/adeyinka36') GitHub
+        //a.button.expanded(href='') Twitter
   nav.grid-container.portfolio-breadcrumb
-    a(href='/') ← Back
+    a(href='#', onclick='history.go(-1)') ← Back
   

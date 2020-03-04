@@ -1,0 +1,55 @@
+{"projects":[
+    {
+        "id":0,
+        "project_name":"Random Quote generator",
+        "technologies":["HTML","CSS","JavaScript"],
+        "live_links":"https://adeyinka36.github.io/TeamTreeHouse-Proj1/.",
+        "github_links":"https://github.com/adeyinka36/TeamTreeHouse-Proj1",
+        "image_urls":["/static/images/quotes1.png","/static/images/quotes2.png","/static/images/quotes3.png"],
+        "description":"This is an application that a program that displays a randomly selected quote each time the user clicks a button and also auto generates every 7 seconds"
+    },
+    {
+        "id":1,
+        "project_name":"Pagination",
+        "technologies":["HTML","CSS","JavaScript"],
+        "live_links":"https://adeyinka36.github.io/TeamTreeHouse-Proj-2/.",
+        "github_links":"https://github.com/adeyinka36/TeamTreeHouse-Proj2",
+        "description":"Using javacript in this programme, i created pagination displaying 10 items for each page and 10 or less on the final page",
+        "image_urls":["/static/images/pagination1.png","/static/images/pagination2.png","/static/images/pagination3.png","/static/images/pagination4.png"]
+    },
+    {
+        "id":2,
+        "project_name":"An Interactive Form",
+        "technologies":["HTML","CSS","JavaScript","Regular Expressions"],
+        "live_links":"https://adeyinka36.github.io/TeamTreeHouse-Proj3/.",
+        "github_links":"https://github.com/adeyinka36/TeamTreeHouse-Proj3",
+        "description":"This is form that collects precise details and shows error messaes when the input conditions are not met",
+        "image_urls":["/static/images/form1.png","/static/images/form2.png","/static/images/form3.png","/static/images/form4.png"]
+    },
+    {
+        "id":3,
+        "project_name":"Game Show App",
+        "technologies":["HTML","CSS","JavaScript","OOP"],
+        "live_links":"https://adeyinka36.github.io/TeamTreeHouse-Proj4/.",
+        "github_links":"https://github.com/adeyinka36/TeamTreeHouse-Proj4",
+        "description":"This is a OOP focused project where i used javacript to create a game that allows players to guess a random hidden phrase on the screen ",
+        "image_urls":["/static/images/oop1.png","/static/images/oop2.png","/static/images/oop4.png","/static/images/3(2).png"]
+    },
+    {
+        "id":4,
+        "project_name":"Employee Database",
+        "technologies":["HTML","CSS","JavaScript","Public-API"],
+        "live_links":"https://adeyinka36.github.io/TeamTreeHouse-Proj5/.",
+        "github_links":"https://github.com/adeyinka36/TeamTreeHouse-Proj5",
+        "description":"In this project , i used data from a public API to get my desired employee data and inserted the data into a webage which allows  easy search for the employees",
+        "image_urls":["/static/images/employee1.png","/static/images/employee2.png","/static/images/employee3.png","/static/images/employee4.png"]
+    }
+
+]
+
+}
+
+
+
+
+
