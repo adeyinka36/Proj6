@@ -166,3 +166,7 @@ a:hover{
 .docbody{
   background-color: darkgray;
 }
+.welcomeText{
+  font-family: 'Anton', sans-serif;
+  color:darkslategrey;
+}

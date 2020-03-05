@@ -32,7 +32,7 @@ app.use((req,res,next)=>{
 })
 app.use((error,req,res,next)=>{
     res.locals.error=error
-    console.log("error called")
+    console.log("Sorry an error has occured")
     res.render("error",)
 })
 
