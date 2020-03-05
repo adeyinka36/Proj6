@@ -1,8 +1,8 @@
 const express= require("express");
 const router = express.Router()
 const data=require("../data.json")
-// const Myprojects=require("./package.json").projects
 
+// routes for different paths of the site
 router.get("/",(req,res)=>{
     res.locals.proj=data.projects
     console.log(data.projects[0].image_urls[0])
